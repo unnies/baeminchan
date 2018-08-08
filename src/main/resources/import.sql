@@ -79,11 +79,11 @@ INSERT INTO Badge (id, name) VALUES (2, '베스트');
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (1, '존맛 김치찌개', '너는 안줄거다', '성열스', 10000, 0);
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (2, '존맛 곱창사랑', '내꺼임', '갓잇', 5000, 10);
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (3, '니들이 게맛을 알아', '너는 안줄거다', '성열스', 2000, 50);
-INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (4, '존맛날드', '너는 안줄거다', '성열스', 2000, 50);
+INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (4, '맥존맛드', '너는 안줄거다', '성열스', 2000, 50);
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (5, '케이엪씨', '너는 안줄거다', '성열스', 2000, 50);
-INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (6, '존맛석윤', '너는 안줄거다', '성열스', 2000, 50);
+INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (6, '석존맛윤', '너는 안줄거다', '성열스', 2000, 50);
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (7, '지우히메', '너는 안줄거다', '성열스', 2000, 50);
-INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (8, '존맛 혁진퐈이아', '너는 안줄거다', '성열스', 2000, 50);
+INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (8, '혁진퐈이아존맛', '너는 안줄거다', '성열스', 2000, 50);
 INSERT INTO Banchan (id, title, subtitle, brand, original_price, sales_rate) VALUES (9, '민성요정', '너는 안줄거다', '성열스', 2000, 50);
 
 INSERT INTO tbl_Badge_Banchan (badge_id, banchan_id) VALUES (1, 1);
